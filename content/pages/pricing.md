@@ -1,5 +1,5 @@
 ---
-title: Kame
+title: Kamelia
 sections:
   - type: hero_section
     title: Pricing
